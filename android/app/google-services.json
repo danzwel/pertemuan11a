@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "120843233226",
+    "project_id": "notiffluter-c6c2b",
+    "storage_bucket": "notiffluter-c6c2b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120843233226:android:4c6d5f314553d526861133",
+        "android_client_info": {
+          "package_name": "com.example.pertemuan11a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx5killBRWgxNdlMnaEHxkDm5IEN41IiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
